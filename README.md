@@ -21,6 +21,10 @@
 
 1.[异步场景面试题，setTimeout、promise、async/await三种题解](https://github.com/HearLing/Blog/issues/1)
 
+## 设计模式专题
+1.[「前端设计模式」- 发布订阅/观察者模式](https://github.com/HearLing/Blog/issues/2)
+
+
 
 ## 勘误及提问
 
