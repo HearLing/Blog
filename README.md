@@ -21,6 +21,8 @@
 
 1.[异步场景面试题，setTimeout、promise、async/await三种题解](https://github.com/HearLing/Blog/issues/1)
 
+2.[🐮化身面试官出30+Vue面试题，超级干货（附答案）](https://github.com/HearLing/Blog/issues/4)
+
 ## 设计模式专题
 1.[「前端设计模式」- 单例模式 ](https://github.com/HearLing/Blog/issues/3)
 
