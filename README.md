@@ -3,7 +3,7 @@
 小玲写博客的地方，目前在写设计模式以及面试相关专题
 
 ## 活跃社区
-
+同名：HearLing
 - [掘金](https://juejin.cn/user/3922690515936312)
 - [B站](https://space.bilibili.com/201738571)
 
